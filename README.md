@@ -31,7 +31,7 @@ You can download the latest release from the [Releases](https://github.com/your-
    - If Windows Defender flags the application, follow [these steps](#disabling-windows-defender) to proceed.
 
 2. **macOS:**
-   - Run the executable in the terminal: `./your-app-name`.
+   - Run the executable in the terminal: `./mac_downloader`.
    - If you encounter issues due to macOS security, [follow these steps](#disabling-macos-gatekeeper).
 
 ### Disabling Windows Defender
