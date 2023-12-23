@@ -27,7 +27,7 @@ You can download the latest release from the [Releases](https://github.com/your-
 ### Usage
 
 1. **Windows:**
-   - Double-click on the `your-app-name.exe` file to run the application.
+   - Double-click on the `Ydownloader.exe` file to run the application.
    - If Windows Defender flags the application, follow [these steps](#disabling-windows-defender) to proceed.
 
 2. **macOS:**
