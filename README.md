@@ -54,6 +54,3 @@ To run the application on macOS without interruptions from Gatekeeper, follow th
 
 If you have suggestions, improvements, or want to report issues, feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
